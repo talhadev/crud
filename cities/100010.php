@@ -1,0 +1,1 @@
+{"technify_store_id":"100010","name":"Hoid","email":"info@hoid.pk","telephone":"03111444711","address":"abc road, karachi","store_url":"http:\/\/www.hoid.pk\/","support_email":"info@hoid.pk","password":"4VlIrRF","uuid":"5a4dfabd1abe58.12011921","user_id":11,"updated_at":"2018-01-04 09:58:21","created_at":"2018-01-04 09:58:21","id":10}

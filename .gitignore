@@ -1,0 +1,10 @@
+public/storage
+public/hot
+public/stores
+public/cities
+storage/*.key
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+Homestead.json

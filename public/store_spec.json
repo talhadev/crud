@@ -1,0 +1,43 @@
+{
+	"store_info": {
+		"name": "Ego Store",
+		"url": "https://wearego.com/",
+		"address": "Abc Road Xyz Street",
+		"phone": "92300012336",
+		"email": "cs@wearego.com",
+		"country": "Pakistan",
+		"country_iso_3": "PAK",
+		"country_iso_2": "PK",
+		"postal_code": "74550",
+		"region": "Sindh"
+	},
+	"shippingdetails": {
+		"variables": {
+			"origincity": "karachi",
+			"location": {
+				"karachi": "Kangaroo",
+				"lahore": "Leopard",
+				"default": "TCS"
+			},
+			"credentials": {
+				"tcs": {
+					"username": "M2.COD",
+					"password": "police123",
+					"costCenterCode": "CCKHI"
+				},
+				"kangaroo": {
+					"clientid": "32",
+					"password": "1234567890"
+				},
+				"leopard": {
+					"api_key": "BC8A745A2B7DA612EFA7E26B96E8E829",
+					"api_password": "A?(.>H5WL2MF9GU"
+				},
+				"bluex": {
+					"username": "",
+					"password": ""
+				}
+			}
+		}
+	}
+}

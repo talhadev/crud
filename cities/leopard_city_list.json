@@ -1,0 +1,3107 @@
+{
+	"city_list": [{
+			"id": 1174,
+			"name": "Abbaspur (a.k)"
+		},
+		{
+			"id": 1,
+			"name": "Abbottabad"
+		},
+		{
+			"id": 119,
+			"name": "Aboha"
+		},
+		{
+			"id": 1261,
+			"name": "Adda 46 chak s"
+		},
+		{
+			"id": 1451,
+			"name": "Adda aujla kala"
+		},
+		{
+			"id": 1435,
+			"name": "Adda pakhi more"
+		},
+		{
+			"id": 336,
+			"name": "Adda pensra"
+		},
+		{
+			"id": 1246,
+			"name": "Adda phloor onl"
+		},
+		{
+			"id": 337,
+			"name": "Adda thikriwala"
+		},
+		{
+			"id": 1006,
+			"name": "Adil pur"
+		},
+		{
+			"id": 755,
+			"name": "Aghar jamalpur"
+		},
+		{
+			"id": 925,
+			"name": "Agwana"
+		},
+		{
+			"id": 1452,
+			"name": "Ahmad nagar"
+		},
+		{
+			"id": 100,
+			"name": "Ahmad pur east"
+		},
+		{
+			"id": 542,
+			"name": "Ahmad pur sial"
+		},
+		{
+			"id": 265,
+			"name": "Akal garh (a.k)"
+		},
+		{
+			"id": 1091,
+			"name": "Akri"
+		},
+		{
+			"id": 1262,
+			"name": "Ali pur syedan"
+		},
+		{
+			"id": 726,
+			"name": "Ali zai kurram"
+		},
+		{
+			"id": 1068,
+			"name": "Alipur"
+		},
+		{
+			"id": 400,
+			"name": "Alipur chattha"
+		},
+		{
+			"id": 1084,
+			"name": "Alipur sayyadan"
+		},
+		{
+			"id": 1453,
+			"name": "Allah abad"
+		},
+		{
+			"id": 1044,
+			"name": "Ambor area"
+		},
+		{
+			"id": 154,
+			"name": "Ambriala chowk"
+		},
+		{
+			"id": 181,
+			"name": "Amin abad"
+		},
+		{
+			"id": 182,
+			"name": "Amir pur mangan"
+		},
+		{
+			"id": 756,
+			"name": "Anoi srohta(a.k"
+		},
+		{
+			"id": 926,
+			"name": "Arifabad"
+		},
+		{
+			"id": 1237,
+			"name": "Arifwala"
+		},
+		{
+			"id": 818,
+			"name": "Arija"
+		},
+		{
+			"id": 330,
+			"name": "Astore"
+		},
+		{
+			"id": 881,
+			"name": "Attar shisha"
+		},
+		{
+			"id": 35,
+			"name": "Attock"
+		},
+		{
+			"id": 36,
+			"name": "Attock khurd"
+		},
+		{
+			"id": 1175,
+			"name": "Awan abad(bathi"
+		},
+		{
+			"id": 1161,
+			"name": "Awaran"
+		},
+		{
+			"id": 1176,
+			"name": "Aziz abad (a.k."
+		},
+		{
+			"id": 1454,
+			"name": "Aziz chak"
+		},
+		{
+			"id": 727,
+			"name": "Babri banda"
+		},
+		{
+			"id": 989,
+			"name": "Bacha band"
+		},
+		{
+			"id": 819,
+			"name": "Badah"
+		},
+		{
+			"id": 74,
+			"name": "Badin"
+		},
+		{
+			"id": 859,
+			"name": "Badshahpur"
+		},
+		{
+			"id": 728,
+			"name": "Baggan"
+		},
+		{
+			"id": 1045,
+			"name": "Bagh (a.k.)"
+		},
+		{
+			"id": 3,
+			"name": "Bagnoter"
+		},
+		{
+			"id": 83,
+			"name": "Bahawalnagar"
+		},
+		{
+			"id": 99,
+			"name": "Bahawalpur"
+		},
+		{
+			"id": 427,
+			"name": "Bahuwal"
+		},
+		{
+			"id": 883,
+			"name": "Balakot"
+		},
+		{
+			"id": 940,
+			"name": "Balokhel city"
+		},
+		{
+			"id": 86,
+			"name": "Bangla yateem w"
+		},
+		{
+			"id": 110,
+			"name": "Bannu"
+		},
+		{
+			"id": 1327,
+			"name": "Barkhan"
+		},
+		{
+			"id": 155,
+			"name": "Barnala (a.k)"
+		},
+		{
+			"id": 1125,
+			"name": "Basser pur"
+		},
+		{
+			"id": 294,
+			"name": "Basti fuja"
+		},
+		{
+			"id": 884,
+			"name": "Batgram"
+		},
+		{
+			"id": 266,
+			"name": "Bathrui (a.k)"
+		},
+		{
+			"id": 118,
+			"name": "Batkhela"
+		},
+		{
+			"id": 170,
+			"name": "Bazargai"
+		},
+		{
+			"id": 886,
+			"name": "Beesham"
+		},
+		{
+			"id": 608,
+			"name": "Bela"
+		},
+		{
+			"id": 1263,
+			"name": "Bhagatanwala"
+		},
+		{
+			"id": 186,
+			"name": "Bhagwal"
+		},
+		{
+			"id": 134,
+			"name": "Bhai pheru"
+		},
+		{
+			"id": 140,
+			"name": "Bhakkar"
+		},
+		{
+			"id": 1802,
+			"name": "Bhall"
+		},
+		{
+			"id": 1264,
+			"name": "Bhalwal"
+		},
+		{
+			"id": 487,
+			"name": "Bhara khu"
+		},
+		{
+			"id": 1265,
+			"name": "Bhera"
+		},
+		{
+			"id": 188,
+			"name": "Bhikari kalan"
+		},
+		{
+			"id": 861,
+			"name": "Bhiki sharif"
+		},
+		{
+			"id": 862,
+			"name": "Bhiko more"
+		},
+		{
+			"id": 153,
+			"name": "Bhimber a. k"
+		},
+		{
+			"id": 477,
+			"name": "Bhit shah"
+		},
+		{
+			"id": 331,
+			"name": "Bhone"
+		},
+		{
+			"id": 1311,
+			"name": "Bhopalwala"
+		},
+		{
+			"id": 156,
+			"name": "Bhring (a.k)"
+		},
+		{
+			"id": 189,
+			"name": "Bhubbar"
+		},
+		{
+			"id": 1386,
+			"name": "Bhudial"
+		},
+		{
+			"id": 1025,
+			"name": "Bhurban pearl c"
+		},
+		{
+			"id": 705,
+			"name": "Bidder marjan"
+		},
+		{
+			"id": 1177,
+			"name": "Bloouch (a.k.)"
+		},
+		{
+			"id": 432,
+			"name": "Boken more"
+		},
+		{
+			"id": 39,
+			"name": "Brotha"
+		},
+		{
+			"id": 757,
+			"name": "Brund batha(a.k"
+		},
+		{
+			"id": 1092,
+			"name": "Bucheri"
+		},
+		{
+			"id": 1178,
+			"name": "Bunn behk (a.k)"
+		},
+		{
+			"id": 169,
+			"name": "Bunner"
+		},
+		{
+			"id": 178,
+			"name": "Burewala"
+		},
+		{
+			"id": 1283,
+			"name": "Burg attari"
+		},
+		{
+			"id": 1026,
+			"name": "Cadet coll. low"
+		},
+		{
+			"id": 1027,
+			"name": "Cadet coll. sun"
+		},
+		{
+			"id": 821,
+			"name": "Cadet college l"
+		},
+		{
+			"id": 730,
+			"name": "Cadet college(k"
+		},
+		{
+			"id": 685,
+			"name": "Chak 168/10r"
+		},
+		{
+			"id": 88,
+			"name": "Chak abdullah"
+		},
+		{
+			"id": 191,
+			"name": "Chak baqar shah"
+		},
+		{
+			"id": 1179,
+			"name": "Chak bazaar(a.k"
+		},
+		{
+			"id": 192,
+			"name": "Chak beli khan"
+		},
+		{
+			"id": 557,
+			"name": "Chak jamal"
+		},
+		{
+			"id": 324,
+			"name": "Chak jhumra"
+		},
+		{
+			"id": 706,
+			"name": "Chak kamal(sehn"
+		},
+		{
+			"id": 1683,
+			"name": "Chak pirana"
+		},
+		{
+			"id": 267,
+			"name": "Chak swari(a.k)"
+		},
+		{
+			"id": 731,
+			"name": "Chakar kot koha"
+		},
+		{
+			"id": 124,
+			"name": "Chakdara"
+		},
+		{
+			"id": 1209,
+			"name": "Chaklala"
+		},
+		{
+			"id": 1047,
+			"name": "Chakothi (a.k.)"
+		},
+		{
+			"id": 180,
+			"name": "Chakwal"
+		},
+		{
+			"id": 1048,
+			"name": "Chamankot (a.k)"
+		},
+		{
+			"id": 198,
+			"name": "Chambi"
+		},
+		{
+			"id": 136,
+			"name": "Changa manga"
+		},
+		{
+			"id": 966,
+			"name": "Char bagh (swat"
+		},
+		{
+			"id": 901,
+			"name": "Charsadda"
+		},
+		{
+			"id": 942,
+			"name": "Chashma colny."
+		},
+		{
+			"id": 943,
+			"name": "Chashma(wapda-a"
+		},
+		{
+			"id": 1049,
+			"name": "Chattar area"
+		},
+		{
+			"id": 977,
+			"name": "Chechian (a.k.)"
+		},
+		{
+			"id": 1050,
+			"name": "Chella bandi (a"
+		},
+		{
+			"id": 9011,
+			"name": "Chenab nagar"
+		},
+		{
+			"id": 248,
+			"name": "Chicha watni"
+		},
+		{
+			"id": 254,
+			"name": "Chiniot"
+		},
+		{
+			"id": 84,
+			"name": "Chistian"
+		},
+		{
+			"id": 256,
+			"name": "Chitral"
+		},
+		{
+			"id": 978,
+			"name": "Chittar pari"
+		},
+		{
+			"id": 199,
+			"name": "Choa saidan sha"
+		},
+		{
+			"id": 1418,
+			"name": "Chohar jamali"
+		},
+		{
+			"id": 674,
+			"name": "Chomko"
+		},
+		{
+			"id": 758,
+			"name": "Chorai (a.k)"
+		},
+		{
+			"id": 1181,
+			"name": "Chottagla (a.k)"
+		},
+		{
+			"id": 1071,
+			"name": "Chowk sarwar sh"
+		},
+		{
+			"id": 157,
+			"name": "Chowki (a.k)"
+		},
+		{
+			"id": 544,
+			"name": "Chund"
+		},
+		{
+			"id": 805,
+			"name": "Chung"
+		},
+		{
+			"id": 1007,
+			"name": "Dad laghari"
+		},
+		{
+			"id": 258,
+			"name": "Dadu"
+		},
+		{
+			"id": 264,
+			"name": "Dadyal (a.k)"
+		},
+		{
+			"id": 201,
+			"name": "Dahewal"
+		},
+		{
+			"id": 748,
+			"name": "Daira din panna"
+		},
+		{
+			"id": 202,
+			"name": "Dalwal"
+		},
+		{
+			"id": 759,
+			"name": "Dammas (a.k)"
+		},
+		{
+			"id": 1389,
+			"name": "Danda shah bila"
+		},
+		{
+			"id": 760,
+			"name": "Dandli (a.k)"
+		},
+		{
+			"id": 40,
+			"name": "Dar-ul-islam co"
+		},
+		{
+			"id": 125,
+			"name": "Darbar(hajiabad"
+		},
+		{
+			"id": 1117,
+			"name": "Darbello"
+		},
+		{
+			"id": 1403,
+			"name": "Darrora"
+		},
+		{
+			"id": 257,
+			"name": "Darrosh"
+		},
+		{
+			"id": 282,
+			"name": "Daska"
+		},
+		{
+			"id": 1182,
+			"name": "Datote (a.k.)"
+		},
+		{
+			"id": 2509,
+			"name": "Daulat pur"
+		},
+		{
+			"id": 434,
+			"name": "Daulatpur safan"
+		},
+		{
+			"id": 1093,
+			"name": "Daur"
+		},
+		{
+			"id": 563,
+			"name": "Deena"
+		},
+		{
+			"id": 1126,
+			"name": "Depalpur"
+		},
+		{
+			"id": 1328,
+			"name": "Dera allah yar"
+		},
+		{
+			"id": 293,
+			"name": "Dera ghazi khan"
+		},
+		{
+			"id": 306,
+			"name": "Dera ismail kha"
+		},
+		{
+			"id": 1284,
+			"name": "Dera mallah sin"
+		},
+		{
+			"id": 1329,
+			"name": "Dera murad jama"
+		},
+		{
+			"id": 761,
+			"name": "Dewan sharif (a"
+		},
+		{
+			"id": 709,
+			"name": "Dhall ghair"
+		},
+		{
+			"id": 158,
+			"name": "Dhander (kalan)"
+		},
+		{
+			"id": 268,
+			"name": "Dhangri bala (a"
+		},
+		{
+			"id": 1052,
+			"name": "Dhani bombian"
+		},
+		{
+			"id": 90,
+			"name": "Dharanwala"
+		},
+		{
+			"id": 1008,
+			"name": "Dharki"
+		},
+		{
+			"id": 126,
+			"name": "Dheri julagram"
+		},
+		{
+			"id": 206,
+			"name": "Dhoda"
+		},
+		{
+			"id": 159,
+			"name": "Dhok daura (a.k"
+		},
+		{
+			"id": 207,
+			"name": "Dhoke badial"
+		},
+		{
+			"id": 208,
+			"name": "Dhoke maken"
+		},
+		{
+			"id": 210,
+			"name": "Dhurkana"
+		},
+		{
+			"id": 2505,
+			"name": "Dhurnal"
+		},
+		{
+			"id": 990,
+			"name": "Digri"
+		},
+		{
+			"id": 712,
+			"name": "Dinga"
+		},
+		{
+			"id": 1400,
+			"name": "Dir"
+		},
+		{
+			"id": 1436,
+			"name": "Dokota"
+		},
+		{
+			"id": 822,
+			"name": "Dokri"
+		},
+		{
+			"id": 1681,
+			"name": "Dolta"
+		},
+		{
+			"id": 112,
+			"name": "Domail"
+		},
+		{
+			"id": 762,
+			"name": "Dongi (a.k)"
+		},
+		{
+			"id": 212,
+			"name": "Dorey"
+		},
+		{
+			"id": 508,
+			"name": "Dorey wala"
+		},
+		{
+			"id": 101,
+			"name": "Dunya pur"
+		},
+		{
+			"id": 945,
+			"name": "Easakhel"
+		},
+		{
+			"id": 1054,
+			"name": "Eidgah road"
+		},
+		{
+			"id": 269,
+			"name": "Eiser (a.k)"
+		},
+		{
+			"id": 322,
+			"name": "Faisalabad"
+		},
+		{
+			"id": 1286,
+			"name": "Faizpur khurd"
+		},
+		{
+			"id": 92,
+			"name": "Faqir wali"
+		},
+		{
+			"id": 2506,
+			"name": "Faqirabad"
+		},
+		{
+			"id": 1266,
+			"name": "Farooqa"
+		},
+		{
+			"id": 1287,
+			"name": "Farooqabad"
+		},
+		{
+			"id": 1203,
+			"name": "Fateh jang"
+		},
+		{
+			"id": 435,
+			"name": "Fatehpur"
+		},
+		{
+			"id": 843,
+			"name": "Fatehpur (chak"
+		},
+		{
+			"id": 297,
+			"name": "Fazilpur dhundh"
+		},
+		{
+			"id": 1288,
+			"name": "Feroz watwan"
+		},
+		{
+			"id": 806,
+			"name": "Ferozwala"
+		},
+		{
+			"id": 93,
+			"name": "Fort abbas"
+		},
+		{
+			"id": 1682,
+			"name": "G maharaja"
+		},
+		{
+			"id": 1248,
+			"name": "G.s.sugar mills"
+		},
+		{
+			"id": 326,
+			"name": "Gadoon amazai"
+		},
+		{
+			"id": 179,
+			"name": "Gaggo mandi"
+		},
+		{
+			"id": 1456,
+			"name": "Gakkhar mandi"
+		},
+		{
+			"id": 1183,
+			"name": "Gala knatha"
+		},
+		{
+			"id": 1331,
+			"name": "Gambat"
+		},
+		{
+			"id": 1055,
+			"name": "Garhi dopatta"
+		},
+		{
+			"id": 904,
+			"name": "Garhi doulat za"
+		},
+		{
+			"id": 891,
+			"name": "Garhi habib ull"
+		},
+		{
+			"id": 1333,
+			"name": "Garhi yasin"
+		},
+		{
+			"id": 823,
+			"name": "Garih khairo"
+		},
+		{
+			"id": 594,
+			"name": "Gawadar"
+		},
+		{
+			"id": 1147,
+			"name": "Gharibwal cemen"
+		},
+		{
+			"id": 1420,
+			"name": "Gharo"
+		},
+		{
+			"id": 42,
+			"name": "Ghazi"
+		},
+		{
+			"id": 249,
+			"name": "Ghaziabad"
+		},
+		{
+			"id": 892,
+			"name": "Ghazikot townsh"
+		},
+		{
+			"id": 1005,
+			"name": "Ghotki"
+		},
+		{
+			"id": 1365,
+			"name": "Ghulam ishaq un"
+		},
+		{
+			"id": 407,
+			"name": "Ghuman wala"
+		},
+		{
+			"id": 619,
+			"name": "Gidani"
+		},
+		{
+			"id": 327,
+			"name": "Gilgit"
+		},
+		{
+			"id": 283,
+			"name": "Glotian morr"
+		},
+		{
+			"id": 502,
+			"name": "Gogera"
+		},
+		{
+			"id": 5,
+			"name": "Goharabad"
+		},
+		{
+			"id": 763,
+			"name": "Goi"
+		},
+		{
+			"id": 334,
+			"name": "Gojra"
+		},
+		{
+			"id": 863,
+			"name": "Gojra ( mandi b"
+		},
+		{
+			"id": 75,
+			"name": "Golarchi"
+		},
+		{
+			"id": 308,
+			"name": "Gomal universit"
+		},
+		{
+			"id": 44,
+			"name": "Gondal"
+		},
+		{
+			"id": 509,
+			"name": "Groat shehar/ca"
+		},
+		{
+			"id": 9016,
+			"name": "Guddu barrage"
+		},
+		{
+			"id": 344,
+			"name": "Gujar khan"
+		},
+		{
+			"id": 565,
+			"name": "Gujarpur"
+		},
+		{
+			"id": 399,
+			"name": "Gujranwala"
+		},
+		{
+			"id": 408,
+			"name": "Gujranwala cant"
+		},
+		{
+			"id": 426,
+			"name": "Gujrat"
+		},
+		{
+			"id": 127,
+			"name": "Gulabad"
+		},
+		{
+			"id": 764,
+			"name": "Gulpur (a.k)"
+		},
+		{
+			"id": 734,
+			"name": "Gumbat"
+		},
+		{
+			"id": 2504,
+			"name": "Habibabad"
+		},
+		{
+			"id": 6,
+			"name": "Habibullah colo"
+		},
+		{
+			"id": 401,
+			"name": "Hafizabad"
+		},
+		{
+			"id": 1404,
+			"name": "Haji abad"
+		},
+		{
+			"id": 765,
+			"name": "Hajiabad (a.k)"
+		},
+		{
+			"id": 893,
+			"name": "Hajiabad ichria"
+		},
+		{
+			"id": 1184,
+			"name": "Hajira (a.k.)"
+		},
+		{
+			"id": 492,
+			"name": "Hajiwala"
+		},
+		{
+			"id": 478,
+			"name": "Hala"
+		},
+		{
+			"id": 1335,
+			"name": "Halani"
+		},
+		{
+			"id": 47,
+			"name": "Hamid"
+		},
+		{
+			"id": 270,
+			"name": "Hamid pur (a.k)"
+		},
+		{
+			"id": 725,
+			"name": "Hangu"
+		},
+		{
+			"id": 250,
+			"name": "Harappa station"
+		},
+		{
+			"id": 1378,
+			"name": "Hari chand"
+		},
+		{
+			"id": 1056,
+			"name": "Hari ghel"
+		},
+		{
+			"id": 864,
+			"name": "Hariah railway"
+		},
+		{
+			"id": 447,
+			"name": "Haripur"
+		},
+		{
+			"id": 436,
+			"name": "Hariyawala"
+		},
+		{
+			"id": 1336,
+			"name": "Harnai"
+		},
+		{
+			"id": 363,
+			"name": "Harnal"
+		},
+		{
+			"id": 7,
+			"name": "Harno"
+		},
+		{
+			"id": 85,
+			"name": "Haroonabad"
+		},
+		{
+			"id": 1289,
+			"name": "Haseeb waqas mi"
+		},
+		{
+			"id": 1438,
+			"name": "Hasilpur"
+		},
+		{
+			"id": 1446,
+			"name": "Hassan abdal"
+		},
+		{
+			"id": 824,
+			"name": "Hati"
+		},
+		{
+			"id": 452,
+			"name": "Hattar ind. est"
+		},
+		{
+			"id": 453,
+			"name": "Havelian"
+		},
+		{
+			"id": 1405,
+			"name": "Haya serai"
+		},
+		{
+			"id": 1267,
+			"name": "Hazoor pur"
+		},
+		{
+			"id": 50,
+			"name": "Hazro"
+		},
+		{
+			"id": 137,
+			"name": "Head baloki roa"
+		},
+		{
+			"id": 128,
+			"name": "Head works(btk)"
+		},
+		{
+			"id": 844,
+			"name": "Hera (chak 134"
+		},
+		{
+			"id": 991,
+			"name": "Hingorno"
+		},
+		{
+			"id": 766,
+			"name": "Holar (a.k)"
+		},
+		{
+			"id": 598,
+			"name": "Hub chowki"
+		},
+		{
+			"id": 1127,
+			"name": "Hujra shah muke"
+		},
+		{
+			"id": 146,
+			"name": "Hyder abad thal"
+		},
+		{
+			"id": 475,
+			"name": "Hyderabad"
+		},
+		{
+			"id": 1213,
+			"name": "Ikhlas (dist. a"
+		},
+		{
+			"id": 271,
+			"name": "Islam garh(a.k)"
+		},
+		{
+			"id": 364,
+			"name": "Islam pura jabb"
+		},
+		{
+			"id": 486,
+			"name": "Islamabad"
+		},
+		{
+			"id": 566,
+			"name": "J camp"
+		},
+		{
+			"id": 1324,
+			"name": "Jacobabad"
+		},
+		{
+			"id": 686,
+			"name": "Jahania"
+		},
+		{
+			"id": 284,
+			"name": "Jaiserwala"
+		},
+		{
+			"id": 1058,
+			"name": "Jalabad (a.k.)"
+		},
+		{
+			"id": 402,
+			"name": "Jalal pur bhatt"
+		},
+		{
+			"id": 488,
+			"name": "Jalal pur jattan"
+		},
+		{
+			"id": 1308,
+			"name": "Jalalpur pirwal"
+		},
+		{
+			"id": 1148,
+			"name": "Jalalpur sharif"
+		},
+		{
+			"id": 845,
+			"name": "Jaman shah(surs"
+		},
+		{
+			"id": 9017,
+			"name": "Jampur"
+		},
+		{
+			"id": 479,
+			"name": "Jamshoro"
+		},
+		{
+			"id": 1204,
+			"name": "Jand"
+		},
+		{
+			"id": 365,
+			"name": "Jand nagar"
+		},
+		{
+			"id": 499,
+			"name": "Jaranwala"
+		},
+		{
+			"id": 1009,
+			"name": "Jarwar"
+		},
+		{
+			"id": 979,
+			"name": "Jatlan (a.k.)"
+		},
+		{
+			"id": 501,
+			"name": "Jauhrabad"
+		},
+		{
+			"id": 854,
+			"name": "Jaunpur"
+		},
+		{
+			"id": 536,
+			"name": "Jehangira"
+		},
+		{
+			"id": 947,
+			"name": "Jhajra east"
+		},
+		{
+			"id": 948,
+			"name": "Jhajra west"
+		},
+		{
+			"id": 541,
+			"name": "Jhang"
+		},
+		{
+			"id": 1018,
+			"name": "Jharian"
+		},
+		{
+			"id": 551,
+			"name": "Jhelum"
+		},
+		{
+			"id": 1314,
+			"name": "Jheteke"
+		},
+		{
+			"id": 1185,
+			"name": "Jholanara (a.k)"
+		},
+		{
+			"id": 9,
+			"name": "Jhugian"
+		},
+		{
+			"id": 409,
+			"name": "Jibbran mandi"
+		},
+		{
+			"id": 10,
+			"name": "Jinnahabad"
+		},
+		{
+			"id": 1162,
+			"name": "Jiwani"
+		},
+		{
+			"id": 969,
+			"name": "Jor (bunner)"
+		},
+		{
+			"id": 2510,
+			"name": "Juglot"
+		},
+		{
+			"id": 767,
+			"name": "Juna (a.k)"
+		},
+		{
+			"id": 1186,
+			"name": "Jundathi (a.k)"
+		},
+		{
+			"id": 688,
+			"name": "Kabir wala"
+		},
+		{
+			"id": 160,
+			"name": "Kadhala (a.k)"
+		},
+		{
+			"id": 807,
+			"name": "Kahna nao"
+		},
+		{
+			"id": 102,
+			"name": "Kahror pakka"
+		},
+		{
+			"id": 1215,
+			"name": "Kahuta"
+		},
+		{
+			"id": 11,
+			"name": "Kakool ( pma)"
+		},
+		{
+			"id": 949,
+			"name": "Kala bagh"
+		},
+		{
+			"id": 12,
+			"name": "Kala bagh (p.a."
+		},
+		{
+			"id": 808,
+			"name": "Kala shah kaku"
+		},
+		{
+			"id": 1366,
+			"name": "Kalabat"
+		},
+		{
+			"id": 768,
+			"name": "Kalah"
+		},
+		{
+			"id": 214,
+			"name": "Kalar kahar"
+		},
+		{
+			"id": 161,
+			"name": "Kalary more(a.k"
+		},
+		{
+			"id": 1132,
+			"name": "Kalaswala"
+		},
+		{
+			"id": 1119,
+			"name": "Kalhoro"
+		},
+		{
+			"id": 368,
+			"name": "Kallar saydian"
+		},
+		{
+			"id": 950,
+			"name": "Kalor kot"
+		},
+		{
+			"id": 252,
+			"name": "Kamalia"
+		},
+		{
+			"id": 825,
+			"name": "Kamber ali khan"
+		},
+		{
+			"id": 403,
+			"name": "Kamoki"
+		},
+		{
+			"id": 51,
+			"name": "Kamra"
+		},
+		{
+			"id": 769,
+			"name": "Kamrotty (a.k)"
+		},
+		{
+			"id": 285,
+			"name": "Kandal sayan"
+		},
+		{
+			"id": 1341,
+			"name": "Kandhkot"
+		},
+		{
+			"id": 675,
+			"name": "Kandiaro"
+		},
+		{
+			"id": 1137,
+			"name": "Kanganpur"
+		},
+		{
+			"id": 455,
+			"name": "Kangra"
+		},
+		{
+			"id": 371,
+			"name": "Kanyal"
+		},
+		{
+			"id": 272,
+			"name": "Kanyal (a.k)"
+		},
+		{
+			"id": 592,
+			"name": "Karachi"
+		},
+		{
+			"id": 493,
+			"name": "Karianwala"
+		},
+		{
+			"id": 333,
+			"name": "Karimabad(hunza"
+		},
+		{
+			"id": 666,
+			"name": "Kark"
+		},
+		{
+			"id": 273,
+			"name": "Karkra town(a.k"
+		},
+		{
+			"id": 1094,
+			"name": "Karoondi"
+		},
+		{
+			"id": 846,
+			"name": "Karor lal easan"
+		},
+		{
+			"id": 1232,
+			"name": "Kashmoor"
+		},
+		{
+			"id": 670,
+			"name": "Kasur"
+		},
+		{
+			"id": 512,
+			"name": "Kattha sughral"
+		},
+		{
+			"id": 770,
+			"name": "Kerala majhan"
+		},
+		{
+			"id": 215,
+			"name": "Keryala"
+		},
+		{
+			"id": 1406,
+			"name": "Khaal"
+		},
+		{
+			"id": 513,
+			"name": "Khabeki"
+		},
+		{
+			"id": 771,
+			"name": "Khad gujran(a.k"
+		},
+		{
+			"id": 1095,
+			"name": "Khadro"
+		},
+		{
+			"id": 1187,
+			"name": "Khaigala (a.k.)"
+		},
+		{
+			"id": 673,
+			"name": "Khair pur meeru"
+		},
+		{
+			"id": 9013,
+			"name": "Khairpur"
+		},
+		{
+			"id": 826,
+			"name": "Khairpur nathan"
+		},
+		{
+			"id": 103,
+			"name": "Khairpur tamian"
+		},
+		{
+			"id": 1460,
+			"name": "Khaiw wali"
+		},
+		{
+			"id": 456,
+			"name": "Khalabat sector"
+		},
+		{
+			"id": 980,
+			"name": "Khaliq abad(a.k"
+		},
+		{
+			"id": 1290,
+			"name": "Khan gah dogran"
+		},
+		{
+			"id": 1306,
+			"name": "Khan ka sharif"
+		},
+		{
+			"id": 1342,
+			"name": "Khan pur distt."
+		},
+		{
+			"id": 274,
+			"name": "Khanabad (a.k)"
+		},
+		{
+			"id": 683,
+			"name": "Khanewal"
+		},
+		{
+			"id": 9015,
+			"name": "Khanpur"
+		},
+		{
+			"id": 1010,
+			"name": "Khanpur meher"
+		},
+		{
+			"id": 1074,
+			"name": "Khanpur shomali"
+		},
+		{
+			"id": 1407,
+			"name": "Khar (bajore ag"
+		},
+		{
+			"id": 129,
+			"name": "Khar (batkhela)"
+		},
+		{
+			"id": 702,
+			"name": "Kharian"
+		},
+		{
+			"id": 1188,
+			"name": "Kharick"
+		},
+		{
+			"id": 1110,
+			"name": "Khat kali"
+		},
+		{
+			"id": 163,
+			"name": "Khawaja textile"
+		},
+		{
+			"id": 972,
+			"name": "Khawaza-khela(s"
+		},
+		{
+			"id": 722,
+			"name": "Khewra"
+		},
+		{
+			"id": 1251,
+			"name": "Khidar wala"
+		},
+		{
+			"id": 993,
+			"name": "Khipro"
+		},
+		{
+			"id": 515,
+			"name": "Khorra"
+		},
+		{
+			"id": 1367,
+			"name": "Khota"
+		},
+		{
+			"id": 772,
+			"name": "Khuratta (a.k)"
+		},
+		{
+			"id": 323,
+			"name": "Khurrianwala"
+		},
+		{
+			"id": 516,
+			"name": "Khushab"
+		},
+		{
+			"id": 1152,
+			"name": "Khuzdar"
+		},
+		{
+			"id": 724,
+			"name": "Kohat"
+		},
+		{
+			"id": 736,
+			"name": "Kohat industria"
+		},
+		{
+			"id": 737,
+			"name": "Kohat(cement fa"
+		},
+		{
+			"id": 1344,
+			"name": "Kohlu"
+		},
+		{
+			"id": 1059,
+			"name": "Kohri (a.k.)"
+		},
+		{
+			"id": 809,
+			"name": "Kot abdul malik"
+		},
+		{
+			"id": 747,
+			"name": "Kot addu"
+		},
+		{
+			"id": 951,
+			"name": "Kot chandnan"
+		},
+		{
+			"id": 1346,
+			"name": "Kot deji"
+		},
+		{
+			"id": 676,
+			"name": "Kot digee"
+		},
+		{
+			"id": 994,
+			"name": "Kot ghulam mohd"
+		},
+		{
+			"id": 930,
+			"name": "Kot islam"
+		},
+		{
+			"id": 164,
+			"name": "Kot jamel (a.k)"
+		},
+		{
+			"id": 412,
+			"name": "Kot je sing"
+		},
+		{
+			"id": 458,
+			"name": "Kot najeeb ulla"
+		},
+		{
+			"id": 1172,
+			"name": "Kot radha kisha"
+		},
+		{
+			"id": 931,
+			"name": "Kot sujan sing"
+		},
+		{
+			"id": 847,
+			"name": "Kot sultan(bhai"
+		},
+		{
+			"id": 130,
+			"name": "Kota"
+		},
+		{
+			"id": 438,
+			"name": "Kotla arab ali"
+		},
+		{
+			"id": 754,
+			"name": "Kotli (a. k)"
+		},
+		{
+			"id": 481,
+			"name": "Kotri"
+		},
+		{
+			"id": 414,
+			"name": "Koulo tarrar"
+		},
+		{
+			"id": 517,
+			"name": "Kufri"
+		},
+		{
+			"id": 995,
+			"name": "Kunri"
+		},
+		{
+			"id": 866,
+			"name": "Kuthiala sheikh"
+		},
+		{
+			"id": 848,
+			"name": "Ladhana"
+		},
+		{
+			"id": 789,
+			"name": "Lahore"
+		},
+		{
+			"id": 868,
+			"name": "Laidher"
+		},
+		{
+			"id": 1349,
+			"name": "Lakhi ghulam sh"
+		},
+		{
+			"id": 113,
+			"name": "Lakki marwat"
+		},
+		{
+			"id": 849,
+			"name": "Lala zar(chak 1"
+		},
+		{
+			"id": 812,
+			"name": "Lalamusa"
+		},
+		{
+			"id": 1270,
+			"name": "Lallian"
+		},
+		{
+			"id": 1075,
+			"name": "Lalpir (therma"
+		},
+		{
+			"id": 827,
+			"name": "Lalu rawank"
+		},
+		{
+			"id": 817,
+			"name": "Larkana"
+		},
+		{
+			"id": 1035,
+			"name": "Lawrence colleg"
+		},
+		{
+			"id": 53,
+			"name": "Lawrencepur"
+		},
+		{
+			"id": 839,
+			"name": "Layyah"
+		},
+		{
+			"id": 165,
+			"name": "Liaqatabad(a.k)"
+		},
+		{
+			"id": 953,
+			"name": "Liaqatabad(pipl"
+		},
+		{
+			"id": 856,
+			"name": "Liaqatpur"
+		},
+		{
+			"id": 104,
+			"name": "Lodhran"
+		},
+		{
+			"id": 689,
+			"name": "Loothar"
+		},
+		{
+			"id": 1439,
+			"name": "Luddan"
+		},
+		{
+			"id": 1165,
+			"name": "Mach"
+		},
+		{
+			"id": 1292,
+			"name": "Machikey(factor"
+		},
+		{
+			"id": 1060,
+			"name": "Madina market"
+		},
+		{
+			"id": 219,
+			"name": "Maghal"
+		},
+		{
+			"id": 1441,
+			"name": "Mailsi"
+		},
+		{
+			"id": 1220,
+			"name": "Maira matoor"
+		},
+		{
+			"id": 932,
+			"name": "Makadoompur pok"
+		},
+		{
+			"id": 1421,
+			"name": "Makli"
+		},
+		{
+			"id": 131,
+			"name": "Malakand"
+		},
+		{
+			"id": 54,
+			"name": "Malan mansoor"
+		},
+		{
+			"id": 547,
+			"name": "Malhoona more"
+		},
+		{
+			"id": 869,
+			"name": "Malikwal"
+		},
+		{
+			"id": 496,
+			"name": "Malowal"
+		},
+		{
+			"id": 1293,
+			"name": "Manawala"
+		},
+		{
+			"id": 858,
+			"name": "Mandi bahauddin"
+		},
+		{
+			"id": 1294,
+			"name": "Mandi dhaba sin"
+		},
+		{
+			"id": 1128,
+			"name": "Mandi heera sin"
+		},
+		{
+			"id": 95,
+			"name": "Mandi sadiq gun"
+		},
+		{
+			"id": 1296,
+			"name": "Mandi safdar ab"
+		},
+		{
+			"id": 548,
+			"name": "Mandi shah juin"
+		},
+		{
+			"id": 672,
+			"name": "Mandi usmanwala"
+		},
+		{
+			"id": 373,
+			"name": "Mandra"
+		},
+		{
+			"id": 286,
+			"name": "Mandranwala"
+		},
+		{
+			"id": 739,
+			"name": "Manduri kurram"
+		},
+		{
+			"id": 135,
+			"name": "Manga mandi"
+		},
+		{
+			"id": 982,
+			"name": "Mangla dam"
+		},
+		{
+			"id": 981,
+			"name": "Mangla hamlet (a.k.)"
+		},
+		{
+			"id": 983,
+			"name": "Mangla industri"
+		},
+		{
+			"id": 880,
+			"name": "Mansehra"
+		},
+		{
+			"id": 56,
+			"name": "Manshera camp"
+		},
+		{
+			"id": 900,
+			"name": "Mardan"
+		},
+		{
+			"id": 518,
+			"name": "Mardwal"
+		},
+		{
+			"id": 1370,
+			"name": "Margaz"
+		},
+		{
+			"id": 1166,
+			"name": "Mashkay"
+		},
+		{
+			"id": 1158,
+			"name": "Mastung"
+		},
+		{
+			"id": 482,
+			"name": "Matiyari"
+		},
+		{
+			"id": 78,
+			"name": "Matli"
+		},
+		{
+			"id": 974,
+			"name": "Matta (swat)"
+		},
+		{
+			"id": 828,
+			"name": "Mehar"
+		},
+		{
+			"id": 1076,
+			"name": "Mehmoodkot"
+		},
+		{
+			"id": 678,
+			"name": "Mehrabpur"
+		},
+		{
+			"id": 923,
+			"name": "Mian channu"
+		},
+		{
+			"id": 166,
+			"name": "Mian m.sugar mi"
+		},
+		{
+			"id": 939,
+			"name": "Mianwali"
+		},
+		{
+			"id": 964,
+			"name": "Mingora (swat)"
+		},
+		{
+			"id": 749,
+			"name": "Mir pur baghal"
+		},
+		{
+			"id": 1422,
+			"name": "Mir pur sakro"
+		},
+		{
+			"id": 829,
+			"name": "Mirokhan"
+		},
+		{
+			"id": 976,
+			"name": "Mirpur (a. k)"
+		},
+		{
+			"id": 988,
+			"name": "Mirpur khas"
+		},
+		{
+			"id": 1004,
+			"name": "Mirpur mathelo"
+		},
+		{
+			"id": 1685,
+			"name": "Mirupr bathoro"
+		},
+		{
+			"id": 997,
+			"name": "Mithi"
+		},
+		{
+			"id": 1015,
+			"name": "Mithiani"
+		},
+		{
+			"id": 287,
+			"name": "Mitranwali"
+		},
+		{
+			"id": 97,
+			"name": "Mohar sharif"
+		},
+		{
+			"id": 222,
+			"name": "Mohara gulsher"
+		},
+		{
+			"id": 497,
+			"name": "Mohinudin pur"
+		},
+		{
+			"id": 879,
+			"name": "Mohlanwal"
+		},
+		{
+			"id": 302,
+			"name": "Mohmmadpur diwa"
+		},
+		{
+			"id": 380,
+			"name": "Mohra noori"
+		},
+		{
+			"id": 223,
+			"name": "Mohuta mohra"
+		},
+		{
+			"id": 1191,
+			"name": "Mong (a.k.)"
+		},
+		{
+			"id": 2508,
+			"name": "Morgah"
+		},
+		{
+			"id": 1012,
+			"name": "Moro"
+		},
+		{
+			"id": 1192,
+			"name": "Mujahid abad (a"
+		},
+		{
+			"id": 1017,
+			"name": "Multan"
+		},
+		{
+			"id": 416,
+			"name": "Murali wala"
+		},
+		{
+			"id": 1254,
+			"name": "Murid wala"
+		},
+		{
+			"id": 790,
+			"name": "Muridke"
+		},
+		{
+			"id": 1020,
+			"name": "Murree"
+		},
+		{
+			"id": 60,
+			"name": "Musa"
+		},
+		{
+			"id": 1043,
+			"name": "Muzaffarabad(ak)"
+		},
+		{
+			"id": 1067,
+			"name": "Muzaffargarh"
+		},
+		{
+			"id": 773,
+			"name": "Nakiyal (a.k)"
+		},
+		{
+			"id": 1193,
+			"name": "Nakkah bazar(a."
+		},
+		{
+			"id": 1299,
+			"name": "Nankana sahib"
+		},
+		{
+			"id": 774,
+			"name": "Nar (a.k.)"
+		},
+		{
+			"id": 1019,
+			"name": "Narang mandi"
+		},
+		{
+			"id": 1194,
+			"name": "Narian sharif"
+		},
+		{
+			"id": 1082,
+			"name": "Narowal"
+		},
+		{
+			"id": 831,
+			"name": "Naudero"
+		},
+		{
+			"id": 1089,
+			"name": "Nawab shah"
+		},
+		{
+			"id": 149,
+			"name": "Nawan jandanwal"
+		},
+		{
+			"id": 1272,
+			"name": "Nehang"
+		},
+		{
+			"id": 775,
+			"name": "New afzalpur(ak"
+		},
+		{
+			"id": 1016,
+			"name": "New jatoi"
+		},
+		{
+			"id": 1061,
+			"name": "New mohalla"
+		},
+		{
+			"id": 895,
+			"name": "Newdarband town"
+		},
+		{
+			"id": 1062,
+			"name": "Nomanpura"
+		},
+		{
+			"id": 1241,
+			"name": "Noor shah"
+		},
+		{
+			"id": 1679,
+			"name": "Nooriabad"
+		},
+		{
+			"id": 1461,
+			"name": "Nooriabad"
+		},
+		{
+			"id": 105,
+			"name": "Noorpur noranga"
+		},
+		{
+			"id": 520,
+			"name": "Noorpur thal"
+		},
+		{
+			"id": 1101,
+			"name": "Nowshera"
+		},
+		{
+			"id": 521,
+			"name": "Nowshera dt. kh"
+		},
+		{
+			"id": 1120,
+			"name": "Nowshero feroz"
+		},
+		{
+			"id": 461,
+			"name": "Nrtc(telecom st"
+		},
+		{
+			"id": 1124,
+			"name": "Okara"
+		},
+		{
+			"id": 523,
+			"name": "Olympia chemica"
+		},
+		{
+			"id": 1168,
+			"name": "Oremara town"
+		},
+		{
+			"id": 896,
+			"name": "Oughi"
+		},
+		{
+			"id": 462,
+			"name": "P.o.f. (factory"
+		},
+		{
+			"id": 873,
+			"name": "Pahrianwali add"
+		},
+		{
+			"id": 304,
+			"name": "Paigah"
+		},
+		{
+			"id": 382,
+			"name": "Pakka khuh"
+		},
+		{
+			"id": 1238,
+			"name": "Pakpattan"
+		},
+		{
+			"id": 776,
+			"name": "Panag gali (a.k"
+		},
+		{
+			"id": 984,
+			"name": "Pandi sabarwal"
+		},
+		{
+			"id": 579,
+			"name": "Pandore"
+		},
+		{
+			"id": 691,
+			"name": "Pang kasi"
+		},
+		{
+			"id": 777,
+			"name": "Panjeera (a.k.)"
+		},
+		{
+			"id": 1353,
+			"name": "Pano aqil"
+		},
+		{
+			"id": 275,
+			"name": "Panyam (a.k)"
+		},
+		{
+			"id": 1195,
+			"name": "Panyiola (a.k.)"
+		},
+		{
+			"id": 1112,
+			"name": "Par nowshera"
+		},
+		{
+			"id": 741,
+			"name": "Parachinar"
+		},
+		{
+			"id": 314,
+			"name": "Parova"
+		},
+		{
+			"id": 595,
+			"name": "Pasni"
+		},
+		{
+			"id": 1133,
+			"name": "Pasrur"
+		},
+		{
+			"id": 1063,
+			"name": "Pattika (a.k.)"
+		},
+		{
+			"id": 1135,
+			"name": "Pattoki"
+		},
+		{
+			"id": 465,
+			"name": "Pcfl -hpfl"
+		},
+		{
+			"id": 229,
+			"name": "Perial"
+		},
+		{
+			"id": 1140,
+			"name": "Peshawar"
+		},
+		{
+			"id": 956,
+			"name": "Phaki shah mard"
+		},
+		{
+			"id": 1274,
+			"name": "Phullarwan"
+		},
+		{
+			"id": 1145,
+			"name": "Pind dadan khan"
+		},
+		{
+			"id": 466,
+			"name": "Pind hashim kha"
+		},
+		{
+			"id": 276,
+			"name": "Pind kalan(a.k)"
+		},
+		{
+			"id": 277,
+			"name": "Pind khurd(a.k)"
+		},
+		{
+			"id": 1300,
+			"name": "Pindi bhattian"
+		},
+		{
+			"id": 1205,
+			"name": "Pindi gheb"
+		},
+		{
+			"id": 526,
+			"name": "Pioneer cement"
+		},
+		{
+			"id": 851,
+			"name": "Pir jagi(chak 1"
+		},
+		{
+			"id": 679,
+			"name": "Pir jo goth"
+		},
+		{
+			"id": 1426,
+			"name": "Pirmahal"
+		},
+		{
+			"id": 999,
+			"name": "Pithoro"
+		},
+		{
+			"id": 278,
+			"name": "Plak (a.k)"
+		},
+		{
+			"id": 778,
+			"name": "Potha (a.k.)"
+		},
+		{
+			"id": 1448,
+			"name": "Pourmiana"
+		},
+		{
+			"id": 25,
+			"name": "Public school(a"
+		},
+		{
+			"id": 779,
+			"name": "Pulendri (a.k)"
+		},
+		{
+			"id": 1275,
+			"name": "Pull 111 chak"
+		},
+		{
+			"id": 934,
+			"name": "Pull bager"
+		},
+		{
+			"id": 985,
+			"name": "Pull manda (a.k"
+		},
+		{
+			"id": 935,
+			"name": "Pull no. 12 mel"
+		},
+		{
+			"id": 936,
+			"name": "Punjab sugar mi"
+		},
+		{
+			"id": 1134,
+			"name": "Purab klair"
+		},
+		{
+			"id": 1243,
+			"name": "Qaboola sharif"
+		},
+		{
+			"id": 875,
+			"name": "Qadirabad"
+		},
+		{
+			"id": 1077,
+			"name": "Qadirpur rawan"
+		},
+		{
+			"id": 897,
+			"name": "Qalandarabad"
+		},
+		{
+			"id": 1078,
+			"name": "Qasba grt. chak"
+		},
+		{
+			"id": 1097,
+			"name": "Qazi ahmad"
+		},
+		{
+			"id": 405,
+			"name": "Qila dedar sing"
+		},
+		{
+			"id": 1196,
+			"name": "Qillan (a.k.)"
+		},
+		{
+			"id": 1151,
+			"name": "Quetta"
+		},
+		{
+			"id": 1169,
+			"name": "Rabwa"
+		},
+		{
+			"id": 1276,
+			"name": "Radhen"
+		},
+		{
+			"id": 1170,
+			"name": "Rahim yar khan"
+		},
+		{
+			"id": 1463,
+			"name": "Raiwind"
+		},
+		{
+			"id": 419,
+			"name": "Raja sadokey"
+		},
+		{
+			"id": 305,
+			"name": "Rajanpur"
+		},
+		{
+			"id": 1355,
+			"name": "Rakhni"
+		},
+		{
+			"id": 1064,
+			"name": "Rangla (a.k.)"
+		},
+		{
+			"id": 680,
+			"name": "Rani pur"
+		},
+		{
+			"id": 289,
+			"name": "Ranjhi"
+		},
+		{
+			"id": 420,
+			"name": "Rasool pur tarr"
+		},
+		{
+			"id": 1173,
+			"name": "Rawalakot (a.k)"
+		},
+		{
+			"id": 1202,
+			"name": "Rawalpindi"
+		},
+		{
+			"id": 384,
+			"name": "Rawat"
+		},
+		{
+			"id": 1100,
+			"name": "Rehmani nagar"
+		},
+		{
+			"id": 1129,
+			"name": "Renalakhurd"
+		},
+		{
+			"id": 1371,
+			"name": "Right bank colo"
+		},
+		{
+			"id": 1114,
+			"name": "Risal pur"
+		},
+		{
+			"id": 1356,
+			"name": "Rohri"
+		},
+		{
+			"id": 550,
+			"name": "Roodo sultan"
+		},
+		{
+			"id": 444,
+			"name": "Saboor sharif"
+		},
+		{
+			"id": 385,
+			"name": "Sacote"
+		},
+		{
+			"id": 1228,
+			"name": "Sadiqabad"
+		},
+		{
+			"id": 1302,
+			"name": "Safdarabad"
+		},
+		{
+			"id": 1411,
+			"name": "Sahib abad"
+		},
+		{
+			"id": 1236,
+			"name": "Sahiwal"
+		},
+		{
+			"id": 1277,
+			"name": "Sahiwal (nawan"
+		},
+		{
+			"id": 975,
+			"name": "Saidu sharif (s"
+		},
+		{
+			"id": 9018,
+			"name": "Sakrand"
+		},
+		{
+			"id": 234,
+			"name": "Saloi"
+		},
+		{
+			"id": 1321,
+			"name": "Sambrial"
+		},
+		{
+			"id": 780,
+			"name": "Samror (a.k.)"
+		},
+		{
+			"id": 1244,
+			"name": "Samundri"
+		},
+		{
+			"id": 1428,
+			"name": "Sandhianwali"
+		},
+		{
+			"id": 28,
+			"name": "Sandu gali"
+		},
+		{
+			"id": 1090,
+			"name": "Sanghar"
+		},
+		{
+			"id": 2507,
+			"name": "Sanghi"
+		},
+		{
+			"id": 325,
+			"name": "Sangla hill"
+		},
+		{
+			"id": 1803,
+			"name": "Sara-e- karishan"
+		},
+		{
+			"id": 587,
+			"name": "Sarai alamgir"
+		},
+		{
+			"id": 236,
+			"name": "Sarai chowk"
+		},
+		{
+			"id": 117,
+			"name": "Sarai naurang"
+		},
+		{
+			"id": 469,
+			"name": "Sarai naymat kh"
+		},
+		{
+			"id": 279,
+			"name": "Saranda (a.k)"
+		},
+		{
+			"id": 693,
+			"name": "Sardarpur"
+		},
+		{
+			"id": 1260,
+			"name": "Sargodha"
+		},
+		{
+			"id": 237,
+			"name": "Sarkalan"
+		},
+		{
+			"id": 743,
+			"name": "Saro zai"
+		},
+		{
+			"id": 445,
+			"name": "Saroki"
+		},
+		{
+			"id": 1065,
+			"name": "Sarran (a.k.)"
+		},
+		{
+			"id": 781,
+			"name": "Sarsawa (a.k.)"
+		},
+		{
+			"id": 65,
+			"name": "Sarwala"
+		},
+		{
+			"id": 106,
+			"name": "Satiyana"
+		},
+		{
+			"id": 503,
+			"name": "Sattrah"
+		},
+		{
+			"id": 782,
+			"name": "Sehar mandi(a.k"
+		},
+		{
+			"id": 1039,
+			"name": "Seher bagla"
+		},
+		{
+			"id": 783,
+			"name": "Sehnsa (a.k.)"
+		},
+		{
+			"id": 262,
+			"name": "Sehwan"
+		},
+		{
+			"id": 485,
+			"name": "Shadadpur"
+		},
+		{
+			"id": 391,
+			"name": "Shah bagh"
+		},
+		{
+			"id": 67,
+			"name": "Shah dher"
+		},
+		{
+			"id": 835,
+			"name": "Shahdadkot"
+		},
+		{
+			"id": 810,
+			"name": "Shahdara"
+		},
+		{
+			"id": 1303,
+			"name": "Shahkot"
+		},
+		{
+			"id": 530,
+			"name": "Shahpur city"
+		},
+		{
+			"id": 68,
+			"name": "Shaker dara"
+		},
+		{
+			"id": 694,
+			"name": "Shamkot"
+		},
+		{
+			"id": 898,
+			"name": "Shankiari"
+		},
+		{
+			"id": 1304,
+			"name": "Sharaqpur shari"
+		},
+		{
+			"id": 1280,
+			"name": "Sheikhupura"
+		},
+		{
+			"id": 1412,
+			"name": "Sher khanie"
+		},
+		{
+			"id": 1684,
+			"name": "Sher shah"
+		},
+		{
+			"id": 1325,
+			"name": "Shikarpur"
+		},
+		{
+			"id": 31,
+			"name": "Shimla hill"
+		},
+		{
+			"id": 1429,
+			"name": "Shorkot cantt."
+		},
+		{
+			"id": 1430,
+			"name": "Shorkot city"
+		},
+		{
+			"id": 1066,
+			"name": "Shoukat lines"
+		},
+		{
+			"id": 1307,
+			"name": "Shujabad"
+		},
+		{
+			"id": 1278,
+			"name": "Sial sharif"
+		},
+		{
+			"id": 1309,
+			"name": "Sialkot"
+		},
+		{
+			"id": 1359,
+			"name": "Sibbi"
+		},
+		{
+			"id": 1197,
+			"name": "Singola (a.k.)"
+		},
+		{
+			"id": 238,
+			"name": "Sirgudhan"
+		},
+		{
+			"id": 263,
+			"name": "Sita road(rehma"
+		},
+		{
+			"id": 4002,
+			"name": "Skycom"
+		},
+		{
+			"id": 168,
+			"name": "Smahni (a.k)"
+		},
+		{
+			"id": 290,
+			"name": "Small ind estat"
+		},
+		{
+			"id": 291,
+			"name": "Sohawa"
+		},
+		{
+			"id": 589,
+			"name": "Sohawa (city on"
+		},
+		{
+			"id": 239,
+			"name": "Sohawa dewalian"
+		},
+		{
+			"id": 784,
+			"name": "Srohta (a.k.)"
+		},
+		{
+			"id": 1235,
+			"name": "Sui"
+		},
+		{
+			"id": 1423,
+			"name": "Sujawal"
+		},
+		{
+			"id": 1326,
+			"name": "Sukkur"
+		},
+		{
+			"id": 785,
+			"name": "Supply (a.k.)"
+		},
+		{
+			"id": 1364,
+			"name": "Swabi"
+		},
+		{
+			"id": 107,
+			"name": "Syed wala"
+		},
+		{
+			"id": 473,
+			"name": "T-tip colony"
+		},
+		{
+			"id": 1376,
+			"name": "Takht-e-bhai"
+		},
+		{
+			"id": 786,
+			"name": "Takya kawan(a.k"
+		},
+		{
+			"id": 1384,
+			"name": "Talagang"
+		},
+		{
+			"id": 1413,
+			"name": "Talash ( ziarat"
+		},
+		{
+			"id": 787,
+			"name": "Talian (a.k.)"
+		},
+		{
+			"id": 1399,
+			"name": "Tamirgaraha"
+		},
+		{
+			"id": 1372,
+			"name": "Tand koi"
+		},
+		{
+			"id": 1258,
+			"name": "Tandlianwala"
+		},
+		{
+			"id": 476,
+			"name": "Tando adam"
+		},
+		{
+			"id": 1415,
+			"name": "Tando allah yar"
+		},
+		{
+			"id": 80,
+			"name": "Tando bago"
+		},
+		{
+			"id": 81,
+			"name": "Tando ghulam al"
+		},
+		{
+			"id": 1416,
+			"name": "Tando jam"
+		},
+		{
+			"id": 1001,
+			"name": "Tando jan mohd."
+		},
+		{
+			"id": 82,
+			"name": "Tando mohd.khan"
+		},
+		{
+			"id": 4008,
+			"name": "Tando soomro"
+		},
+		{
+			"id": 280,
+			"name": "Tangdew (a.k)"
+		},
+		{
+			"id": 1198,
+			"name": "Tangi gala (a."
+		},
+		{
+			"id": 319,
+			"name": "Tank"
+		},
+		{
+			"id": 744,
+			"name": "Tappi"
+		},
+		{
+			"id": 72,
+			"name": "Tarbela dam"
+		},
+		{
+			"id": 986,
+			"name": "Tariq abad (a.k"
+		},
+		{
+			"id": 1115,
+			"name": "Tarnab farm(agr"
+		},
+		{
+			"id": 1227,
+			"name": "Tarnol"
+		},
+		{
+			"id": 788,
+			"name": "Tata pani (a.k)"
+		},
+		{
+			"id": 240,
+			"name": "Tatral"
+		},
+		{
+			"id": 752,
+			"name": "Taunsa sharif"
+		},
+		{
+			"id": 1449,
+			"name": "Taxila"
+		},
+		{
+			"id": 1397,
+			"name": "Tehi"
+		},
+		{
+			"id": 1442,
+			"name": "Thaingi"
+		},
+		{
+			"id": 745,
+			"name": "Thall"
+		},
+		{
+			"id": 1002,
+			"name": "Tharparker"
+		},
+		{
+			"id": 1417,
+			"name": "Thatha"
+		},
+		{
+			"id": 696,
+			"name": "Thatta (sadiqab"
+		},
+		{
+			"id": 1139,
+			"name": "Theeng more(all"
+		},
+		{
+			"id": 1361,
+			"name": "Thehri"
+		},
+		{
+			"id": 681,
+			"name": "Theri mir wah"
+		},
+		{
+			"id": 1398,
+			"name": "Thoa maharam kh"
+		},
+		{
+			"id": 1199,
+			"name": "Thorar (a.k.)"
+		},
+		{
+			"id": 721,
+			"name": "Thotha rai baha"
+		},
+		{
+			"id": 1362,
+			"name": "Thull"
+		},
+		{
+			"id": 1443,
+			"name": "Tibba sultan pu"
+		},
+		{
+			"id": 1424,
+			"name": "Toba tek sing"
+		},
+		{
+			"id": 1200,
+			"name": "Topa (a.k.)"
+		},
+		{
+			"id": 1373,
+			"name": "Topi"
+		},
+		{
+			"id": 857,
+			"name": "Tranda mohd. pa"
+		},
+		{
+			"id": 1201,
+			"name": "Trarkhail (a.k)"
+		},
+		{
+			"id": 281,
+			"name": "Trutta (a.k)"
+		},
+		{
+			"id": 938,
+			"name": "Tulamba"
+		},
+		{
+			"id": 596,
+			"name": "Turbat"
+		},
+		{
+			"id": 108,
+			"name": "Uch sharif"
+		},
+		{
+			"id": 1003,
+			"name": "Umer kot"
+		},
+		{
+			"id": 1363,
+			"name": "Usta muhammad"
+		},
+		{
+			"id": 601,
+			"name": "Uthal"
+		},
+		{
+			"id": 423,
+			"name": "Vanky tarer"
+		},
+		{
+			"id": 532,
+			"name": "Vegowal"
+		},
+		{
+			"id": 245,
+			"name": "Vehalizer"
+		},
+		{
+			"id": 1434,
+			"name": "Vehari"
+		},
+		{
+			"id": 424,
+			"name": "Venktarar"
+		},
+		{
+			"id": 987,
+			"name": "Vespa factory"
+		},
+		{
+			"id": 533,
+			"name": "Wadhi"
+		},
+		{
+			"id": 1444,
+			"name": "Wah cantt"
+		},
+		{
+			"id": 504,
+			"name": "Wahhndo"
+		},
+		{
+			"id": 1804,
+			"name": "Wanjari"
+		},
+		{
+			"id": 878,
+			"name": "Wasu"
+		},
+		{
+			"id": 1450,
+			"name": "Wazirabad"
+		},
+		{
+			"id": 602,
+			"name": "Winder"
+		},
+		{
+			"id": 109,
+			"name": "Yazman mandi"
+		},
+		{
+			"id": 535,
+			"name": "Yousaf sugar mi"
+		},
+		{
+			"id": 1088,
+			"name": "Zafarwal"
+		}
+	]
+}

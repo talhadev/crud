@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="967a9793-b085-4e60-9610-87830fb0eafe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ActionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ActionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiActionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiActionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingVendorController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingVendorController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiStoresController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiStoresController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/V2/ActionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/V2/ActionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/V2/ShippingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/V2/ShippingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Connector/NewopencartController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Connector/NewopencartController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ShippingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ShippingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/requestValidationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/requestValidationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Helpers/apphelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Helpers/apphelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Shipping.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Shipping.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/cache/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/cache/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/store_spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/store_spec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ShippingController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/V2/ShippingController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-817">
+              <caret line="194" column="19" selection-start-line="194" selection-start-column="19" selection-end-line="194" selection-end-column="19" />
+              <folding>
+                <element signature="e#2535#6365#0#PHP" />
+                <element signature="e#5546#6365#0#PHP" />
+                <element signature="e#5713#6087#0#PHP" />
+                <element signature="e#10997#11298#0#PHP" />
+                <element signature="e#11313#11475#0#PHP" />
+                <element signature="e#11216#11342#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApiShippingController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="877" column="37" lean-forward="true" selection-start-line="877" selection-start-column="37" selection-end-line="877" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apphelper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Helpers/apphelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="212" column="50" selection-start-line="212" selection-start-column="50" selection-end-line="212" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hyderabad</find>
+      <find>quetta</find>
+      <find>getstoreso</find>
+      <find>sargodha</find>
+      <find>sialkot</find>
+      <find>gujranwala</find>
+      <find>dd(</find>
+      <find>elsepos</find>
+      <find>getelseposition</find>
+      <find>gar</find>
+      <find>zafarwa</find>
+      <find>getstore</find>
+      <find>getStoreSpec</find>
+      <find>getstorespec</find>
+      <find>getshippingcity</find>
+      <find>foreach</find>
+      <find>getElseposition</find>
+      <find>getShippingSettingsOrderStatus</find>
+      <find>hash</find>
+      <find>getstorespecdb</find>
+      <find>something</find>
+      <find>elseif</find>
+      <find>getShippingcityWithCredentialsDb</find>
+      <find>cancelshipment</find>
+      <find>cancel</find>
+      <find>cancelShipment</find>
+      <find>shipping</find>
+      <find>orderstatusid</find>
+      <find>cancelShipmentTcs</find>
+      <find>getshipping</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/laradock" value="newbranch" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/ApiLeopardController.php" />
+        <option value="$PROJECT_DIR$/public/cities/20001.php" />
+        <option value="$PROJECT_DIR$/public/cities/20001.json" />
+        <option value="$PROJECT_DIR$/public/payload.json" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/ApiTcsController.php" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/20001.json" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/400001.json" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/platforms/woocommerceController.php" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/100009.json" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/platforms/magentoRestController.php" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/100010.json" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/200002.json" />
+        <option value="$PROJECT_DIR$/public/cities/200002.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/platforms/magentoController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Connector/WoocommerceController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ActionController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingSettingsController.php" />
+        <option value="$PROJECT_DIR$/bootstrap/cache/config.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/requestValidationController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/ApiStoresController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingVendorController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/StatsController.php" />
+        <option value="$PROJECT_DIR$/public/store_spec.json" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/10003.json" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/ApiActionController.php" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/100005.json" />
+        <option value="$PROJECT_DIR$/public/stores/cities/4718.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Connector/NewopencartController.php" />
+        <option value="$PROJECT_DIR$/app/Models/Shipping.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_05_04_123607_cities.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_02_19_110441_add_endpoint_to_stores.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_02_19_114143_add_auth_to_stores.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_03_06_093045_add_amount_city_address_email_to_shippings.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_03_12_073935_add_module_active_to_stores.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_03_12_082721_create_shipping_settings_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_03_12_095040_create_vendor_order_statuses_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_03_12_141200_create_order_status_logs_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_03_12_155722_add_payment_to_shippings.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_05_04_161612_location.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_05_07_063623_locations.php" />
+        <option value="$PROJECT_DIR$/app/Models/Settings.php" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/4718.json" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_05_07_092809_cities.php" />
+        <option value="$PROJECT_DIR$/cities/4718.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/V2/ActionController.php" />
+        <option value="$PROJECT_DIR$/public/stores/jsons/4719.json" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ShippingController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Helpers/apphelper.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/V2/ShippingController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/milon/barcode" />
+      <path value="$PROJECT_DIR$/vendor/econea/nusoap" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/elibyy/tcpdf-laravel" />
+      <path value="$PROJECT_DIR$/vendor/fergusean/nusoap" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-snappy" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-snappy" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/artisaninweb/laravel-soap" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/ktamas77/firebase-php" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="33" />
+    <option name="width" value="1305" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Api" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Api" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="V2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Connector" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="stores" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="stores" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jsons" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shipping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="getciti&#9;null&#9;null&#10;apphelper&#9;FILE&#9;file:///opt/lampp/htdocs/system/app/Http/Helpers/apphelper.php&#10;orderfailureC&#9;null&#9;null&#10;100005&#9;FILE&#9;file:///opt/lampp/htdocs/system/public/stores/jsons/100005.json&#10;orderfailure/inde&#9;FILE&#9;file:///opt/lampp/htdocs/system/resources/views/orderfailure/index.blade.php&#10;storeC&#9;null&#9;null&#10;action/form.&#9;FILE&#9;file:///opt/lampp/htdocs/system/resources/views/action/form.blade.php&#10;Apiac&#9;null&#9;null&#10;shippingC&#9;null&#9;null&#10;1000&#9;FILE&#9;file://C:/wamp/www/system/public/cities/100001.php&#10;100001&#9;FILE&#9;file://C:/wamp/www/system/public/stores/jsons/100001.json&#10;api.php&#9;FILE&#9;file://C:/wamp/www/system/routes/api.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/bootstrap/cache/config.php&#10;true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/database/completed_migration" />
+      <recent name="$PROJECT_DIR$/vendor" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/platforms" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/app/Models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="967a9793-b085-4e60-9610-87830fb0eafe" name="Default" comment="" />
+      <created>1501077355777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501077355777</updated>
+      <workItem from="1501077357281" duration="23000" />
+      <workItem from="1501077394039" duration="66000" />
+      <workItem from="1501158573994" duration="95000" />
+      <workItem from="1501182293286" duration="20000" />
+      <workItem from="1506066924546" duration="66000" />
+      <workItem from="1506074819038" duration="30000" />
+      <workItem from="1506074903254" duration="5000" />
+      <workItem from="1506074964030" duration="14000" />
+      <workItem from="1506075744684" duration="303000" />
+      <workItem from="1506076069354" duration="236000" />
+      <workItem from="1506076319120" duration="5292000" />
+      <workItem from="1509097371538" duration="111000" />
+      <workItem from="1509097500106" duration="660000" />
+      <workItem from="1509350140930" duration="620000" />
+      <workItem from="1510127567088" duration="8000" />
+      <workItem from="1511764202799" duration="27310000" />
+      <workItem from="1511860128222" duration="10360000" />
+      <workItem from="1511872678037" duration="1067000" />
+      <workItem from="1512028394972" duration="7513000" />
+      <workItem from="1512370617276" duration="30590000" />
+      <workItem from="1512541663542" duration="4955000" />
+      <workItem from="1512556878153" duration="9017000" />
+      <workItem from="1512614867969" duration="8060000" />
+      <workItem from="1512720136277" duration="5860000" />
+      <workItem from="1512890546757" duration="55123000" />
+      <workItem from="1513069047185" duration="40670000" />
+      <workItem from="1513329879492" duration="4145000" />
+      <workItem from="1513752674157" duration="23864000" />
+      <workItem from="1513839411408" duration="1295000" />
+      <workItem from="1514012429453" duration="16747000" />
+      <workItem from="1514271732972" duration="16069000" />
+      <workItem from="1514449670940" duration="14728000" />
+      <workItem from="1514530484237" duration="29426000" />
+      <workItem from="1514751052650" duration="18400000" />
+      <workItem from="1514800491802" duration="5714000" />
+      <workItem from="1514879555032" duration="1875000" />
+      <workItem from="1514934011395" duration="5857000" />
+      <workItem from="1514955243019" duration="2706000" />
+      <workItem from="1514961937167" duration="4662000" />
+      <workItem from="1514969130058" duration="37400000" />
+      <workItem from="1515142308499" duration="1676000" />
+      <workItem from="1515315087171" duration="47761000" />
+      <workItem from="1515605339487" duration="18507000" />
+      <workItem from="1515748269187" duration="7164000" />
+      <workItem from="1515925228034" duration="89943000" />
+      <workItem from="1516186336074" duration="11730000" />
+      <workItem from="1516257969037" duration="2483000" />
+      <workItem from="1516272520359" duration="7163000" />
+      <workItem from="1516335668071" duration="2483000" />
+      <workItem from="1516348756260" duration="581000" />
+      <workItem from="1516350477357" duration="34000" />
+      <workItem from="1516525559219" duration="10272000" />
+      <workItem from="1516603603790" duration="28627000" />
+      <workItem from="1516648579785" duration="31846000" />
+      <workItem from="1516866776904" duration="10801000" />
+      <workItem from="1516883522213" duration="31000" />
+      <workItem from="1516948563840" duration="16078000" />
+      <workItem from="1516982360922" duration="72000" />
+      <workItem from="1517148367916" duration="2591000" />
+      <workItem from="1517203847577" duration="50000" />
+      <workItem from="1517211235757" duration="1853000" />
+      <workItem from="1517215132040" duration="23779000" />
+      <workItem from="1517303920499" duration="1497000" />
+      <workItem from="1517383212702" duration="646000" />
+      <workItem from="1517383944455" duration="94000" />
+      <workItem from="1517384055283" duration="33867000" />
+      <workItem from="1517455529829" duration="608000" />
+      <workItem from="1517474604573" duration="17369000" />
+      <workItem from="1517517007723" duration="12426000" />
+      <workItem from="1517816861347" duration="1378000" />
+      <workItem from="1517904612030" duration="2920000" />
+      <workItem from="1517920282257" duration="1563000" />
+      <workItem from="1517999934651" duration="11086000" />
+      <workItem from="1518101245400" duration="919000" />
+      <workItem from="1518166366615" duration="819000" />
+      <workItem from="1524564142818" duration="15048000" />
+      <workItem from="1524634080287" duration="22518000" />
+      <workItem from="1524662286621" duration="11021000" />
+      <workItem from="1524724399457" duration="26509000" />
+      <workItem from="1524821966394" duration="21667000" />
+      <workItem from="1524997639289" duration="609000" />
+      <workItem from="1525070360963" duration="22550000" />
+      <workItem from="1525097263333" duration="520000" />
+      <workItem from="1525098368790" duration="15748000" />
+      <workItem from="1525168739490" duration="3004000" />
+      <workItem from="1525191181222" duration="5060000" />
+      <workItem from="1525239521177" duration="31332000" />
+      <workItem from="1525328037376" duration="33304000" />
+      <workItem from="1525413873187" duration="10742000" />
+      <workItem from="1525429075334" duration="20945000" />
+      <workItem from="1525628358291" duration="23692000" />
+      <workItem from="1525695523543" duration="2775000" />
+      <workItem from="1525702214180" duration="1688000" />
+      <workItem from="1525761587789" duration="13971000" />
+      <workItem from="1525846713766" duration="24125000" />
+      <workItem from="1525935704405" duration="722000" />
+      <workItem from="1525938245521" duration="15516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1177815000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50038314" side_tool="true" weight="0.3298193" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49961686" weight="0.22289157" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1254061" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24980843" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.7018072" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/StatsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="105" column="12" lean-forward="true" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingSettingsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Stores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bluex.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2027" selection-end-column="2027" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/store_spec.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/cities/100022.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="1" column="2271" selection-start-line="1" selection-start-column="2271" selection-end-line="1" selection-end-column="2271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/cities/20001.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="1" column="1020" selection-start-line="1" selection-start-column="1020" selection-end-line="1" selection-end-column="1020" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/jsons/10003.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/cities/10003.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/jsons/100005.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/cities/100005.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="929" selection-start-line="1" selection-start-column="929" selection-end-line="1" selection-end-column="929" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/completed_migration/2017_06_03_013507_create_shippings_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/completed_migration/2017_05_19_065513_create_shippinginfos_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_02_19_110441_add_endpoint_to_stores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_03_06_093045_add_amount_city_address_email_to_shippings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_02_19_114143_add_auth_to_stores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_03_12_073935_add_module_active_to_stores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_03_12_095040_create_vendor_order_statuses_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_03_12_141200_create_order_status_logs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_03_12_082721_create_shipping_settings_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="21" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_03_12_155722_add_payment_to_shippings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Shipping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/ApiActionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="106" column="46" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1046" column="9" selection-start-line="1046" selection-start-column="9" selection-end-line="1046" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/urls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/completed_migration/2017_07_09_110052_add_orderinfo_to_shippings_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_05_07_063623_locations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_05_04_161612_location.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_05_07_092809_cities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_05_04_123607_cities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cities/10003.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cities/4718.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="1" column="2190" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="2190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cities/4718.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="1" column="1180" selection-start-line="1" selection-start-column="1180" selection-end-line="1" selection-end-column="1180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cities/4719.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/cities/4718.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1" column="996" selection-start-line="1" selection-start-column="996" selection-end-line="1" selection-end-column="996" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Connector/NewopencartController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/V2/ActionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/jsons/4718.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/V2/VendorDashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stores/jsons/4719.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/call_courier.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/tcs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="121" lean-forward="true" selection-start-column="121" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Connector/WoocommerceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/requestValidationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="156" column="5" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ShippingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="638" column="42" selection-start-line="638" selection-start-column="35" selection-end-line="638" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="385" column="9" selection-start-line="385" selection-start-column="9" selection-end-line="385" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Connector/BigcommerceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/ApiShippingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="877" column="37" lean-forward="true" selection-start-line="877" selection-start-column="37" selection-end-line="877" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Helpers/apphelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="212" column="50" selection-start-line="212" selection-start-column="50" selection-end-line="212" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/V2/ShippingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-817">
+          <caret line="194" column="19" selection-start-line="194" selection-start-column="19" selection-end-line="194" selection-end-column="19" />
+          <folding>
+            <element signature="e#2535#6365#0#PHP" />
+            <element signature="e#5546#6365#0#PHP" />
+            <element signature="e#5713#6087#0#PHP" />
+            <element signature="e#10997#11298#0#PHP" />
+            <element signature="e#11313#11475#0#PHP" />
+            <element signature="e#11216#11342#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
